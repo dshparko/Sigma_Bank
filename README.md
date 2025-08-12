@@ -12,7 +12,7 @@
 
 - Клонировать проект
 ```bash
-https://github.com/dshparko/Sigma_Bank.git
+git clone https://github.com/dshparko/Sigma_Bank.git
 
 ### Перейти в корень проекта
 
